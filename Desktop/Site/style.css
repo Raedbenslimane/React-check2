@@ -1,0 +1,202 @@
+.text {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  top: 60px;
+  left: 50px;
+  color: #00b39b;
+  height: 50px;
+}
+
+h2 {
+  text-align: center;
+  color: #00b39b;
+}
+h3 {
+  text-align: center;
+  color: #00b39b;
+}
+p {
+  text-align: center;
+}
+#warsaw {
+  text-align: center;
+  margin-left: auto;
+}
+#barcelona {
+  align-self: flex-end;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+#photo {
+  width: 80%;
+  min-width: 400px;
+  max-width: 800px;
+  margin: auto;
+}
+.P2 {
+  display: flex;
+}
+.paragraphe {
+  display: flex;
+}
+.P1 {
+  font-style: oblique;
+}
+.bar {
+  float: right;
+}
+.more {
+  text-align: center;
+}
+
+h6 {
+  text-align: center;
+  color: #00b39b;
+}
+.we {
+  display: flex;
+  justify-content: space-evenly;
+}
+.B1 {
+  position: absolute;
+  top: 110%;
+  left: 10%;
+}
+.T1 {
+  position: absolute;
+  top: 110%;
+  left: 3%;
+  font-size: 20px;
+}
+.bouton {
+  position: absolute;
+  top: 110%;
+  left: 10%;
+  font-size: 20px;
+}
+.bouton2 {
+  position: absolute;
+  top: 110%;
+  left: 35%;
+  font-size: 20px;
+}
+.T2 {
+  position: absolute;
+  top: 110%;
+  left: 27%;
+  font-size: 20px;
+}
+.bouton3 {
+  position: absolute;
+  top: 110%;
+  left: 58%;
+  font-size: 20px;
+}
+
+.T3 {
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  font-size: 20px;
+}
+.bouton4 {
+  position: absolute;
+  top: 110%;
+  left: 83%;
+  font-size: 20px;
+}
+.T4 {
+  position: absolute;
+  top: 110%;
+  left: 72%;
+  font-size: 20px;
+}
+#rome {
+  position: absolute;
+  top: 120%;
+  left: 0%;
+}
+.bouton5 {
+  position: absolute;
+  top: 163%;
+  left: 12%;
+  font-size: 20px;
+}
+.T5 {
+  position: absolute;
+  top: 163%;
+  left: 4%;
+  font-size: 20px;
+}
+#bologna {
+  position: absolute;
+  top: 120%;
+  left: 24.01%;
+  font-size: 20px;
+}
+.bouton6 {
+  position: absolute;
+  top: 163%;
+  left: 37%;
+  font-size: 20px;
+}
+.T6 {
+  position: absolute;
+  top: 163%;
+  left: 25%;
+  font-size: 20px;
+}
+#curitiba {
+  position: absolute;
+  top: 120%;
+  left: 47.7%;
+  font-size: 20px;
+}
+.bouton7 {
+  position: absolute;
+  top: 163%;
+  left: 61%;
+  font-size: 20px;
+}
+.T7 {
+  position: absolute;
+  top: 163%;
+  left: 50%;
+  font-size: 20px;
+}
+#mexico {
+  position: absolute;
+  top: 120%;
+  left: 71%;
+  font-size: 20px;
+}
+.bouton8 {
+  position: absolute;
+  top: 163%;
+  left: 84%;
+  font-size: 20px;
+}
+.T8 {
+  position: absolute;
+  top: 163%;
+  left: 72%;
+  font-size: 20px;
+}
+.T9 {
+  text-align: center;
+  position: absolute;
+  top: 180%;
+  left: 32%;
+  font-size: 20px;
+}
+.Bouton9 {
+  position: absolute;
+  top: 189%;
+  left: 39%;
+  font-size: 20px;
+}
