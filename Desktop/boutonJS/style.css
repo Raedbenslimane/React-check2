@@ -1,0 +1,121 @@
+#spain {
+  position: absolute;
+  top: 66%;
+  left: 7%;
+}
+#tunisia {
+  position: absolute;
+  top: 40%;
+  left: 7%;
+}
+#france {
+  position: absolute;
+  top: 90%;
+  left: 7%;
+}
+.sustraction-btn {
+  position: absolute;
+  top: 50%;
+  left: 27%;
+}
+.plus-btn {
+  position: absolute;
+  top: 50%;
+  left: 32%;
+}
+.Prix {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  color: aliceblue;
+}
+.quantity {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  color: aliceblue;
+}
+.Price {
+  position: absolute;
+  top: 50%;
+  left: 37%;
+  color: aliceblue;
+}
+.delete-btn {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+.pluus-btn {
+  position: absolute;
+  top: 75%;
+  left: 31%;
+}
+.sustractionn-btn {
+  position: absolute;
+  top: 75%;
+  left: 27%;
+}
+.quantityy {
+  position: absolute;
+  top: 75%;
+  left: 30%;
+  color: aliceblue;
+}
+.Prixx {
+  position: absolute;
+  top: 75%;
+  left: 20%;
+  color: aliceblue;
+}
+.Pricee {
+  position: absolute;
+  top: 75%;
+  left: 35%;
+  color: aliceblue;
+}
+.deletee-btn {
+  position: absolute;
+  top: 75%;
+  left: 40%;
+}
+.Prixxx {
+  position: absolute;
+  top: 99%;
+  left: 20%;
+  color: aliceblue;
+}
+.sustractionnn-btn {
+  position: absolute;
+  top: 99%;
+  left: 26%;
+}
+.quantityyy {
+  position: absolute;
+  top: 99%;
+  left: 29%;
+  color: aliceblue;
+}
+.pluuus-btn {
+  position: absolute;
+  top: 99%;
+  left: 30%;
+}
+.Priceee {
+  position: absolute;
+  top: 99%;
+  left: 35%;
+  color: aliceblue;
+}
+.deleteee-btn {
+  position: absolute;
+  top: 99%;
+  left: 40%;
+}
+h3 {
+  text-align: center;
+  color: blue;
+}
+body {
+  background-image: url(./worldcup.jpg);
+}
