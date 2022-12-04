@@ -1,0 +1,27 @@
+ALGORITHM checkpoint 3
+VAR
+    t : array_name : ARRAY_OF INTEGER;
+i : INTEGER
+min : INTEGER
+j : FLOAT
+BEGIN
+ i←1
+WHILE i<length(t) DO
+     j←i+1
+  min←i
+   j←i+1
+  min←i
+  
+END_WHILE : 
+WHILE (j<=length(t) ) DO
+    IF (t[j]<t[min]) THEN
+        min←j
+    END_IF :
+       j←j+1
+ 
+   IF (min≠i ) THEN
+       change  t[i] et t[min]
+   END_IF
+   i←i+1 
+END_WHILE
+END
